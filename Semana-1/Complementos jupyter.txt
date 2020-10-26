@@ -1,0 +1,8 @@
+La instalación de este proyecto se puede realizar a través de pip o conda. En el caso de utilizar pip para ellos solamente es necesario escribir en la terminal:
+
+pip install jupyter_contrib_nbextensions
+
+Una vez instalada la librería con las extensiones se han de instalar los archivos JavaScript y CSS en el servidor Jupyter. Esto también se puede realizar a través de la línea de comandos ejecutando
+
+jupyter contrib nbextension install
+
