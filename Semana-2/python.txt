@@ -1,0 +1,4 @@
+En Python puede imprimir instrucciones
+En pytHon puede usar for para hacer loops
+En python puede usar matematicas
+En pythoN puede formatear archivos
